@@ -1,0 +1,6 @@
+/target/
+/.settings/
+/commons-mvn-error.log
+/commons-mvn.log
+.classpath
+.project
